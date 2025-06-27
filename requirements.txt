@@ -1,4 +1,5 @@
-ibm_watson_machine_learning
+streamlit
+ibm-watson-machine-learning
 ibm-watsonx-ai
 langchain
 langchain-ibm
@@ -6,5 +7,6 @@ fpdf
 plotly
 matplotlib
 pandas
-timedelta
 seaborn
+requests
+
